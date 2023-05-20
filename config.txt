@@ -1,1 +1,2 @@
 Some configuration settings and some description.
+Don't change this file.
