@@ -1,1 +1,1 @@
-Some configuration settings and some description
+Some configuration settings and some description.
